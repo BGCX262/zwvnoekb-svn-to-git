@@ -1,0 +1,11 @@
+16/05/09
+Mise à jour des fichiers TestTraitFormat.jdt et JDT.ref suite à des anomalies constatées (erreur humaine)
+
+14/05/09
+Mise à jour du fichier TestTraitFormat.jdt
+
+11/05/09
+Nouvelle branche b4 contenant le développement du composant qui vérifie si 2 fichiers sont identiques, composant utilisé pour le test et l'oracle
+
+08/05/09
+Vous trouverez dans vos répertoires respectifs "Data tests" les fichiers testTraitFormat.jdt et jdt.ref.

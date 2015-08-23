@@ -1,0 +1,2 @@
+Les 2 fichiers sont identiques
+Nombre de ligne testée(s) : 688
